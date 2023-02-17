@@ -3,3 +3,4 @@
 *.class
 *.tokens
 play/*.java
+gen
